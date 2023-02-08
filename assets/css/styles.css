@@ -1013,7 +1013,7 @@ ul {
 @media only screen and (max-width: 412px) {
   .newt {
     position: absolute;
-    top: -3rem;
-    left: 8rem;
+    top: -3.5rem;
+    left: 6.5rem;
   }
 }
