@@ -26,7 +26,8 @@ body{
 
 .heading{
     color: #fff;
-    text-decoration: underline #e71b24;
+    text-decoration: underline;
+    text-decoration-color: #e71b24;
     position: absolute;
     top: 10%;
     right: 25%;
